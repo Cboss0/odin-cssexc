@@ -1,0 +1,10 @@
+/* SytleTwo */
+
+p {
+    background-color: rgb(255, 44, 107);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.change-font {
+   font-size: 24px; 
+}
