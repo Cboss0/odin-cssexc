@@ -12,6 +12,9 @@
 .testb{
     font-size: 12px;
 }
+.testa{
+    font-size: 50px;
+}
 
 .avatar.proportioned{
     height: auto;
